@@ -1,7 +1,5 @@
 # Whitepace
 
-![Logo](img/logo.png)
-
 **Agência de Marketing e Criação de Websites**
 
 Este é um projeto fictício de uma agência de marketing e criação de websites. O projeto consiste em um site com cinco páginas: Home, Sobre, Serviços, Planos e Contato.
@@ -23,6 +21,8 @@ O site é dividido nas seguintes páginas:
 - JavaScript: Funcionalidades.
 
 ## Como Usar
+
+**Acesse o projeto aqui: https://matheusaudibert.github.io/whitepace/** ou siga os seguintes passos:
 
 1. **Clone o repositório**:
 
