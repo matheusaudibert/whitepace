@@ -1,4 +1,4 @@
-# Agência de Marketing e Criação de Websites
+# Whitepace - Agência de Marketing e Criação de Websites
 
 Este é um projeto fictício de uma agência de marketing e criação de websites. O projeto consiste em um site com cinco páginas: Home, Sobre, Serviços, Planos e Contato.
 
@@ -22,6 +22,15 @@ O site é dividido nas seguintes páginas:
 ## Como Usar
 
 1. **Clone o repositório**:
+
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
    ```
+
+2. **Navegue até o diretório do projeto**:
+
+   ```bash
+   cd nome-do-repositorio
+   ```
+
+3. **Abra o arquivo `index.html` no seu navegador** para visualizar a página inicial do site.
