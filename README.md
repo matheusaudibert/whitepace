@@ -22,7 +22,7 @@ O site é dividido nas seguintes páginas:
 
 ## Como Usar
 
-**Acesse o projeto aqui: https://matheusaudibert.github.io/whitepace/** ou siga os seguintes passos:
+**Acesse o projeto aqui: https://matheusaudibert.github.io/whitepace/**, ou siga os seguintes passos:
 
 1. **Clone o repositório**:
 
@@ -37,3 +37,9 @@ O site é dividido nas seguintes páginas:
    ```
 
 3. **Abra o arquivo `index.html` no seu navegador** para visualizar a página inicial do site.
+
+## Contribuições
+
+Este projeto não seria possível sem a ajuda dos nossos incríveis contribuidores. Muito obrigado a todos que contribuíram com o desenvolvimento deste projeto!
+
+- **Mateus Campos** - [Desenvolvedor](https://github.com/cabife)
