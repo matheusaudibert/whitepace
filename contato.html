@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="img/icon.ico" type="image/x-icon">
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"
+      integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="css/styles.css" />
+    <title>Contato</title>
+  </head>
+  <body>
+    <!-- header -->
+    <header style="background-image: url('img/background-contato.png')">
+      <!-- container -->
+      <div class="container">
+        <nav>
+          <a href="index.html">
+            <img src="img/logo.png" alt="Logo" />
+          </a>
+          <ul class="ul">
+            <a href="index.html">Home</a>
+            <a href="sobre.html">Sobre</a>
+            <a href="servicos.html">Serviços</a>
+            <a href="planos.html">Planos</a>
+            <a class="button" href="contato.html">Contato</a>
+            <div class="close-icon" onclick="closeMenu()">
+              <i class="fa fa-times-circle" aria-hidden="true"></i>
+            </div>
+          </ul>
+          <div class="menu-icon" onclick="openMenu()">
+            <i class="fa fa-bars" aria-hidden="true"></i>
+          </div>
+        </nav>
+        <section class="banner">
+          <div class="banner-text">
+            <div id="greeting"></div>
+            <h1>Nos contate</h1>
+            <p>
+              Entre em contato com o nosso time para tirar seu negócio do papel.
+            </p>
+          </div>
+        </section>
+      </div>
+      <!-- fim container -->
+    </header>
+    <!-- fim header  -->
+
+    <!-- contact -->
+    <section class="contact">
+      <!-- containert -->
+      <div class="container">
+        <div class="map">
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3679.6100637834143!2d-45.5925402!3d-22.7427304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cc89dae7f8099f%3A0x198fcf4cf3c2df0d!2sInstituto%20Federal%20de%20Educa%C3%A7%C3%A3o%2C%20Ci%C3%AAncia%20e%20Tecnologia%20de%20S%C3%A3o%20Paulo%20-%20Campus%20Campos%20do%20Jord%C3%A3o!5e0!3m2!1spt-BR!2sbr!4v1717710897754!5m2!1spt-BR!2sbr" width="100%" height="500px" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+        <div class="contact-info">
+          <div class="left-side">
+            <div>
+              <i class="fa fa-map-marker" aria-hidden="true"></i>
+              <p>Rua Monsenhor José Vita, 280 - Abernéssia, Campos do Jordão - SP, 12460-000</p>
+            </div>
+            <div>
+              <a href="index.html"><i class="fa fa-globe" aria-hidden="true"></i></a>
+              <p>whitepace.org</p>
+            </div>
+            <div>
+              <i class="fa fa-envelope" aria-hidden="true"></i>
+              <p>whitepace@contact.com</p>
+            </div>
+            <div>
+              <i class="fa fa-phone" aria-hidden="true"></i>
+              <p>+55 (12) 98308-0050</p>
+            </div>
+          </div>
+          <div class="right-side">
+            <form action="">
+              <input type="text" placeholder="Nome"id="name" required>
+              <input type="email" placeholder="Email" id="email" required>
+              <input type="text" placeholder="Assunto" id="assunto" required>
+              <textarea cols="30" rows="10" placeholder="Sua mensagem" id="message" required></textarea>
+              <button class="button"  onclick="validateForm()">Enviar mensagem</button>
+            </form>
+          </div>
+        </div>
+      </div>
+      <!-- fim container -->
+    </section>
+    <!-- fim contact -->
+    
+    <!-- footer -->
+     <footer class="footer">
+      <!-- container -->
+       <div class="container">
+        <div class="links">
+          <a href="https://github.com/matheusaudibert/Whitepace"><i class="fa fa-github" aria-hidden="true"></i></i></a>
+        </div>
+        <p>Desenvolvido por <b>Mateus Campos</b> & <b>Matheus Audibert</b></p>
+       </div>
+       <div>
+        <b style="color: white; font-weight: 500;">© 2024 Whitepace - <div id="date"></div> <div id="clock"></div></b> 
+       </div>
+      <!-- fim container -->
+     </footer>
+    <!-- fim footer -->
+  </body>
+
+  <script src="js/script.js"></script>
+</html>
