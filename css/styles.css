@@ -97,7 +97,7 @@ nav ul a {
   display: block;
 }
 
-/* Criar barrinha */
+/* Criar barrinha (sublinhado) */
 nav ul a:not(.button):after {
   content: "";
   background-color: #4f9cf9;
