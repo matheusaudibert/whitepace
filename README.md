@@ -1,4 +1,4 @@
-# Whitepace
+# Whitepace ![Logo](img/logo.png)
 
 **Agência de Marketing e Criação de Websites**
 
