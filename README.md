@@ -1,4 +1,4 @@
-# **Whitepace:** Agência de Marketing e Criação de Websites\*\*
+# **Whitepace:** Agência de Marketing e Criação de Websites
 
 Este é um **projeto fictício** de uma agência de marketing e criação de websites. O projeto consiste em um site com cinco páginas: Home, Sobre, Serviços, Planos e Contato.
 
@@ -12,7 +12,7 @@ Este é um **projeto fictício** de uma agência de marketing e criação de web
 
 4. [Contribuições](#contribuições)
 
-5. [Contato](#observações)
+5. [Contato](#contato)
 
 ## Estrutura do Projeto
 
