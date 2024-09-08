@@ -59,5 +59,3 @@ Este projeto não seria possível sem a ajuda deste contribuidor.
 Para obter mais informações sobre o Whitepace ou me conhecer, você pode entrar em contato comigo através dos seguintes canais:
 
 - **Email**: matheusaudibert2019@outlook.com
-- **Linkedin**: [matheusaudibert](https://www.linkedin.com/in/matheusaudibert/)
-- **Discord**: uewp
